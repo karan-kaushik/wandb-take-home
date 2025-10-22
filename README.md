@@ -30,3 +30,4 @@
 - Workspace ![Workspace](screenshots/20251023_03h21m19s_workspace.png)
 - Runs ![Runs](screenshots/20251023_03h21m26s_runs.png)
 - Report ![Report](screenshots/20251023_03h26m56s_report.png)
+- GCP Resources ![GCP Resources](screenshots/20251023_04h00m27s_gcp_resources.png)
