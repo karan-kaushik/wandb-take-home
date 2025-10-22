@@ -13,19 +13,19 @@ provider "google-beta" {
 
 data "google_client_config" "current" {}
 
-provider "kubernetes" {
-  host                   = "https://${module.wandb.cluster_endpoint}"
-  cluster_ca_certificate = base64decode(module.wandb.cluster_ca_certificate)
-  token                  = data.google_client_config.current.access_token
-}
-
-provider "helm" {
-  kubernetes {
-    host                   = "https://${module.wandb.cluster_endpoint}"
-    cluster_ca_certificate = base64decode(module.wandb.cluster_ca_certificate)
-    token                  = data.google_client_config.current.access_token
-  }
-}
+#provider "kubernetes" {
+#  host                   = "https://${module.wandb.cluster_endpoint}"
+#  cluster_ca_certificate = base64decode(module.wandb.cluster_ca_certificate)
+#  token                  = data.google_client_config.current.access_token
+#}
+#
+#provider "helm" {
+#  kubernetes {
+#    host                   = "https://${module.wandb.cluster_endpoint}"
+#    cluster_ca_certificate = base64decode(module.wandb.cluster_ca_certificate)
+#    token                  = data.google_client_config.current.access_token
+#  }
+#}
 
 # Spin up all required services
 module "wandb" {
