@@ -1,0 +1,15 @@
+{"time":"2025-10-23T18:27:33.410198162+05:30","level":"INFO","msg":"stream: starting","core version":"0.22.2"}
+{"time":"2025-10-23T18:27:33.924394863+05:30","level":"INFO","msg":"stream: created new stream","id":"gpyu9r2b"}
+{"time":"2025-10-23T18:27:33.924758305+05:30","level":"INFO","msg":"handler: started","stream_id":"gpyu9r2b"}
+{"time":"2025-10-23T18:27:33.925236097+05:30","level":"INFO","msg":"stream: started","id":"gpyu9r2b"}
+{"time":"2025-10-23T18:27:33.925522113+05:30","level":"INFO","msg":"writer: started","stream_id":"gpyu9r2b"}
+{"time":"2025-10-23T18:27:33.925488799+05:30","level":"INFO","msg":"sender: started","stream_id":"gpyu9r2b"}
+{"time":"2025-10-23T18:27:34.296565341+05:30","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-10-23T18:27:34.533191709+05:30","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":38}
+{"time":"2025-10-23T18:27:34.677704209+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":0.375818523}],"total_operations":1}}
+{"time":"2025-10-23T18:27:34.868914481+05:30","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":237}
+{"time":"2025-10-23T18:27:37.160374863+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-23T18:27:37.606683319+05:30","level":"INFO","msg":"stream: closing","id":"gpyu9r2b"}
+{"time":"2025-10-23T18:27:37.606736522+05:30","level":"INFO","msg":"handler: closed","stream_id":"gpyu9r2b"}
+{"time":"2025-10-23T18:27:37.606814669+05:30","level":"INFO","msg":"sender: closed","stream_id":"gpyu9r2b"}
+{"time":"2025-10-23T18:27:37.606834225+05:30","level":"INFO","msg":"stream: closed","id":"gpyu9r2b"}

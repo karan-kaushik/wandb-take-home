@@ -1,0 +1,27 @@
+{
+  "os": "Linux-6.12.34+rpt-rpi-v8-aarch64-with-glibc2.36",
+  "python": "CPython 3.11.2",
+  "startedAt": "2025-10-23T12:57:33.143900Z",
+  "program": "/home/karan/Desktop/wandb-take-home-assignment/wandb-take-home/runs/quickstart.py",
+  "codePath": "quickstart.py",
+  "codePathLocal": "quickstart.py",
+  "git": {
+    "remote": "git@github.com:karan-kaushik/wandb-take-home.git"
+  },
+  "email": "karankaushik715@gmail.com",
+  "root": "/home/karan/Desktop/wandb-take-home-assignment/wandb-take-home/runs",
+  "host": "raspberrypi",
+  "executable": "/root/wandb-take-home/bin/python",
+  "cpu_count": 4,
+  "cpu_count_logical": 4,
+  "disk": {
+    "/": {
+      "total": "59939684352",
+      "used": "12000010240"
+    }
+  },
+  "memory": {
+    "total": "3980316672"
+  },
+  "writerId": "u85qowszd3fbg40lcmbjsj6cw05ydpku"
+}

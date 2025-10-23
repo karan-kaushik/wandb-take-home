@@ -1,0 +1,16 @@
+{"time":"2025-10-23T18:32:06.53426341+05:30","level":"INFO","msg":"stream: starting","core version":"0.22.2"}
+{"time":"2025-10-23T18:32:06.962554285+05:30","level":"INFO","msg":"stream: created new stream","id":"xz01dkvu-check_run"}
+{"time":"2025-10-23T18:32:06.962869319+05:30","level":"INFO","msg":"handler: started","stream_id":"xz01dkvu-check_run"}
+{"time":"2025-10-23T18:32:06.963151206+05:30","level":"INFO","msg":"stream: started","id":"xz01dkvu-check_run"}
+{"time":"2025-10-23T18:32:06.963220872+05:30","level":"INFO","msg":"writer: started","stream_id":"xz01dkvu-check_run"}
+{"time":"2025-10-23T18:32:06.963256149+05:30","level":"INFO","msg":"sender: started","stream_id":"xz01dkvu-check_run"}
+{"time":"2025-10-23T18:32:07.324305547+05:30","level":"WARN","msg":"handleCodeSave: program relative path is empty"}
+{"time":"2025-10-23T18:32:07.324527009+05:30","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-10-23T18:32:07.435601608+05:30","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":37}
+{"time":"2025-10-23T18:32:07.450276791+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":0.12015977}],"total_operations":1}}
+{"time":"2025-10-23T18:32:07.813115063+05:30","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":9}
+{"time":"2025-10-23T18:32:08.930382604+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-23T18:32:09.295390638+05:30","level":"INFO","msg":"stream: closing","id":"xz01dkvu-check_run"}
+{"time":"2025-10-23T18:32:09.295454008+05:30","level":"INFO","msg":"handler: closed","stream_id":"xz01dkvu-check_run"}
+{"time":"2025-10-23T18:32:09.295549915+05:30","level":"INFO","msg":"sender: closed","stream_id":"xz01dkvu-check_run"}
+{"time":"2025-10-23T18:32:09.295610618+05:30","level":"INFO","msg":"stream: closed","id":"xz01dkvu-check_run"}

@@ -1,0 +1,25 @@
+{
+  "os": "Linux-6.12.34+rpt-rpi-v8-aarch64-with-glibc2.36",
+  "python": "CPython 3.11.2",
+  "startedAt": "2025-10-23T13:02:13.552543Z",
+  "args": [
+    "verify"
+  ],
+  "program": "/root/wandb-take-home/bin/wandb",
+  "email": "karankaushik715@gmail.com",
+  "root": "/home/karan/Desktop/wandb-take-home-assignment/wandb-take-home/runs",
+  "host": "raspberrypi",
+  "executable": "/root/wandb-take-home/bin/python3",
+  "cpu_count": 4,
+  "cpu_count_logical": 4,
+  "disk": {
+    "/": {
+      "total": "59939684352",
+      "used": "12002349056"
+    }
+  },
+  "memory": {
+    "total": "3980316672"
+  },
+  "writerId": "wjolxr0avhc7wujobsyh0d58t78h1mnf"
+}

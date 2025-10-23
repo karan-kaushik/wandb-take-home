@@ -1,0 +1,15 @@
+{"time":"2025-10-23T18:23:49.614590972+05:30","level":"INFO","msg":"stream: starting","core version":"0.22.2"}
+{"time":"2025-10-23T18:23:50.088630438+05:30","level":"INFO","msg":"stream: created new stream","id":"dvho6jdb"}
+{"time":"2025-10-23T18:23:50.089127212+05:30","level":"INFO","msg":"stream: started","id":"dvho6jdb"}
+{"time":"2025-10-23T18:23:50.089435858+05:30","level":"INFO","msg":"writer: started","stream_id":"dvho6jdb"}
+{"time":"2025-10-23T18:23:50.08948582+05:30","level":"INFO","msg":"sender: started","stream_id":"dvho6jdb"}
+{"time":"2025-10-23T18:23:50.089430487+05:30","level":"INFO","msg":"handler: started","stream_id":"dvho6jdb"}
+{"time":"2025-10-23T18:23:50.385427425+05:30","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://wandb-take-home.karankaushik.dev/graphql"}
+{"time":"2025-10-23T18:23:50.385682275+05:30","level":"ERROR","msg":"runupserter: failed to init run","error":"returned error 404: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"entity wandb-take-home-team-1 not found during upsertBucket\",\"path\":[\"upsertBucket\"]}]}"}
+{"time":"2025-10-23T18:23:50.40663619+05:30","level":"INFO","msg":"stream: closing","id":"dvho6jdb"}
+{"time":"2025-10-23T18:23:50.407682348+05:30","level":"ERROR","msg":"sender: uploadConfigFile: runupserter: run not yet initialized"}
+{"time":"2025-10-23T18:23:50.457911978+05:30","level":"ERROR","msg":"runfiles: runupserter: run not yet initialized"}
+{"time":"2025-10-23T18:23:50.458320919+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-23T18:23:50.458403715+05:30","level":"INFO","msg":"handler: closed","stream_id":"dvho6jdb"}
+{"time":"2025-10-23T18:23:50.458538047+05:30","level":"INFO","msg":"sender: closed","stream_id":"dvho6jdb"}
+{"time":"2025-10-23T18:23:50.458575417+05:30","level":"INFO","msg":"stream: closed","id":"dvho6jdb"}

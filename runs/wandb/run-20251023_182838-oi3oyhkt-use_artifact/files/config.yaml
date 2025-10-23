@@ -1,0 +1,37 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            p8rbuxx9y8gqpncuc5b73p0w3ozwoihk:
+                args:
+                    - verify
+                cpu_count: 4
+                cpu_count_logical: 4
+                disk:
+                    /:
+                        total: "59939684352"
+                        used: "12005007360"
+                email: karankaushik715@gmail.com
+                executable: /root/wandb-take-home/bin/python3
+                host: raspberrypi
+                memory:
+                    total: "3980316672"
+                os: Linux-6.12.34+rpt-rpi-v8-aarch64-with-glibc2.36
+                program: /root/wandb-take-home/bin/wandb
+                python: CPython 3.11.2
+                root: /home/karan/Desktop/wandb-take-home-assignment/wandb-take-home/runs
+                startedAt: "2025-10-23T12:58:38.100985Z"
+                writerId: p8rbuxx9y8gqpncuc5b73p0w3ozwoihk
+        m: []
+        python_version: 3.11.2
+        t:
+            "3":
+                - 2
+                - 14
+                - 16
+            "4": 3.11.2
+            "5": 0.22.2
+            "12": 0.22.2
+            "13": linux-aarch64
+test:
+    value: artifact use

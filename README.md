@@ -26,8 +26,9 @@
 
 ## screenshots
 - TF INIT ![TF INIT](screenshots/20251022_22h16m23s_tf_init.png)
-- W&B Home ![W&B Home](screenshots/20251023_03h21m04s_home_page.png)
-- Workspace ![Workspace](screenshots/20251023_03h21m19s_workspace.png)
-- Runs ![Runs](screenshots/20251023_03h21m26s_runs.png)
-- Report ![Report](screenshots/20251023_03h26m56s_report.png)
+- W&B Home ![W&B Home](screenshots/20251023_18h31m56s_home.png)
+- Workspace ![Workspace](screenshots/20251023_18h29m10s_workspace.png)
+- Runs ![Runs](screenshots/20251023_18h28m36s_runs.png)
+- Verify Console ![Verify Console](screenshots/20251023_18h33m25s_verify_console.png)
+- Verify CLI ![Verify CLI](screenshots/20251023_18h35m15s_verify_cli.png)
 - GCP Resources ![GCP Resources](screenshots/20251023_04h00m27s_gcp_resources.png)

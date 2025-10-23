@@ -1,0 +1,39 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            9lm3h1d44v1v221vbxsc8q73srjwthf0:
+                args:
+                    - verify
+                cpu_count: 4
+                cpu_count_logical: 4
+                disk:
+                    /:
+                        total: "59939684352"
+                        used: "12002492416"
+                email: karankaushik715@gmail.com
+                executable: /root/wandb-take-home/bin/python3
+                host: raspberrypi
+                memory:
+                    total: "3980316672"
+                os: Linux-6.12.34+rpt-rpi-v8-aarch64-with-glibc2.36
+                program: /root/wandb-take-home/bin/wandb
+                python: CPython 3.11.2
+                root: /home/karan/Desktop/wandb-take-home-assignment/wandb-take-home/runs
+                startedAt: "2025-10-23T13:02:26.418546Z"
+                writerId: 9lm3h1d44v1v221vbxsc8q73srjwthf0
+        m: []
+        python_version: 3.11.2
+        t:
+            "3":
+                - 2
+                - 14
+                - 16
+            "4": 3.11.2
+            "5": 0.22.2
+            "10":
+                - 20
+            "12": 0.22.2
+            "13": linux-aarch64
+test:
+    value: artifact log

@@ -1,0 +1,14 @@
+{"time":"2025-10-23T18:32:13.559316034+05:30","level":"INFO","msg":"stream: starting","core version":"0.22.2"}
+{"time":"2025-10-23T18:32:13.987804003+05:30","level":"INFO","msg":"stream: created new stream","id":"xz01dkvu-log_artifact"}
+{"time":"2025-10-23T18:32:13.987986464+05:30","level":"INFO","msg":"handler: started","stream_id":"xz01dkvu-log_artifact"}
+{"time":"2025-10-23T18:32:13.988396665+05:30","level":"INFO","msg":"stream: started","id":"xz01dkvu-log_artifact"}
+{"time":"2025-10-23T18:32:13.988469312+05:30","level":"INFO","msg":"writer: started","stream_id":"xz01dkvu-log_artifact"}
+{"time":"2025-10-23T18:32:13.988481757+05:30","level":"INFO","msg":"sender: started","stream_id":"xz01dkvu-log_artifact"}
+{"time":"2025-10-23T18:32:14.329309795+05:30","level":"WARN","msg":"handleCodeSave: program relative path is empty"}
+{"time":"2025-10-23T18:32:14.329583571+05:30","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-10-23T18:32:16.656863648+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":2.319031845},{"desc":"uploading artifact xz01dkvu-sing-artys","runtime_seconds":1.001403669}],"total_operations":2}}
+{"time":"2025-10-23T18:32:18.880755866+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-23T18:32:19.22863161+05:30","level":"INFO","msg":"stream: closing","id":"xz01dkvu-log_artifact"}
+{"time":"2025-10-23T18:32:19.228680924+05:30","level":"INFO","msg":"handler: closed","stream_id":"xz01dkvu-log_artifact"}
+{"time":"2025-10-23T18:32:19.228803571+05:30","level":"INFO","msg":"sender: closed","stream_id":"xz01dkvu-log_artifact"}
+{"time":"2025-10-23T18:32:19.228830571+05:30","level":"INFO","msg":"stream: closed","id":"xz01dkvu-log_artifact"}

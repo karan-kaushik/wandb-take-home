@@ -13,12 +13,12 @@ run = wandb.init(
         "learning_rate": 0.02,
         "architecture": "CNN",
         "dataset": "CIFAR-100",
-        "epochs": 100,
+        "epochs": 80,
     },
 )
 
 # Simulate training.
-epochs = 100
+epochs = 80
 offset = random.random() / 5
 for epoch in range(2, epochs):
     acc = 1 - 2**-epoch - random.random() / epoch - offset

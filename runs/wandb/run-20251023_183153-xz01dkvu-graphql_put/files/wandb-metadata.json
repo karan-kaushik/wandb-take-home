@@ -1,0 +1,14 @@
+{
+  "os": "Linux-6.12.34+rpt-rpi-v8-aarch64-with-glibc2.36",
+  "python": "CPython 3.11.2",
+  "startedAt": "2025-10-23T13:01:53.945958Z",
+  "args": [
+    "verify"
+  ],
+  "program": "/root/wandb-take-home/bin/wandb",
+  "email": "karankaushik715@gmail.com",
+  "root": "/home/karan/Desktop/wandb-take-home-assignment/wandb-take-home/runs",
+  "host": "raspberrypi",
+  "executable": "/root/wandb-take-home/bin/python3",
+  "writerId": "b5gvdxnjukuqis1sk9z05qviu9y8dh1o"
+}

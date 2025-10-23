@@ -1,0 +1,16 @@
+{
+  "os": "Linux-6.12.34+rpt-rpi-v8-aarch64-with-glibc2.36",
+  "python": "CPython 3.11.2",
+  "startedAt": "2025-10-23T12:56:34.355180Z",
+  "program": "/home/karan/Desktop/wandb-take-home-assignment/wandb-take-home/runs/quickstart.py",
+  "codePath": "quickstart.py",
+  "codePathLocal": "quickstart.py",
+  "git": {
+    "remote": "git@github.com:karan-kaushik/wandb-take-home.git"
+  },
+  "email": "karankaushik715@gmail.com",
+  "root": "/home/karan/Desktop/wandb-take-home-assignment/wandb-take-home/runs",
+  "host": "raspberrypi",
+  "executable": "/root/wandb-take-home/bin/python",
+  "writerId": "ywt4uqadrawj1rrxwzasvj1l3e9e8yge"
+}

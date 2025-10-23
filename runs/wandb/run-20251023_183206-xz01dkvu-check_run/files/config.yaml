@@ -1,0 +1,44 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            78sa32ko9ixrxrrirfqpbzm4v7xpqyi1:
+                args:
+                    - verify
+                email: karankaushik715@gmail.com
+                executable: /root/wandb-take-home/bin/python3
+                host: raspberrypi
+                os: Linux-6.12.34+rpt-rpi-v8-aarch64-with-glibc2.36
+                program: /root/wandb-take-home/bin/wandb
+                python: CPython 3.11.2
+                root: /home/karan/Desktop/wandb-take-home-assignment/wandb-take-home/runs
+                startedAt: "2025-10-23T13:02:06.527119Z"
+                writerId: 78sa32ko9ixrxrrirfqpbzm4v7xpqyi1
+        m: []
+        python_version: 3.11.2
+        t:
+            "3":
+                - 2
+                - 3
+                - 14
+                - 16
+                - 61
+            "4": 3.11.2
+            "5": 0.22.2
+            "10":
+                - 20
+            "12": 0.22.2
+            "13": linux-aarch64
+dictTest:
+    value:
+        config_string: config string
+        config_val: 2
+epochs:
+    value: 4
+listTest:
+    value:
+        - 0
+        - one
+        - "2"
+stringTest:
+    value: A test config

@@ -1,0 +1,37 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        code_path: code/quickstart.py
+        e:
+            ywt4uqadrawj1rrxwzasvj1l3e9e8yge:
+                codePath: quickstart.py
+                codePathLocal: quickstart.py
+                email: karankaushik715@gmail.com
+                executable: /root/wandb-take-home/bin/python
+                git:
+                    remote: git@github.com:karan-kaushik/wandb-take-home.git
+                host: raspberrypi
+                os: Linux-6.12.34+rpt-rpi-v8-aarch64-with-glibc2.36
+                program: /home/karan/Desktop/wandb-take-home-assignment/wandb-take-home/runs/quickstart.py
+                python: CPython 3.11.2
+                root: /home/karan/Desktop/wandb-take-home-assignment/wandb-take-home/runs
+                startedAt: "2025-10-23T12:56:34.355180Z"
+                writerId: ywt4uqadrawj1rrxwzasvj1l3e9e8yge
+        m: []
+        python_version: 3.11.2
+        t:
+            "3":
+                - 2
+                - 16
+            "4": 3.11.2
+            "5": 0.22.2
+            "12": 0.22.2
+            "13": linux-aarch64
+architecture:
+    value: CNN
+dataset:
+    value: CIFAR-100
+epochs:
+    value: 40
+learning_rate:
+    value: 0.02

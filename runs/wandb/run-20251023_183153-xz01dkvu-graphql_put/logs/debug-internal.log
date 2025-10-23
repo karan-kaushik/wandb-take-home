@@ -1,0 +1,14 @@
+{"time":"2025-10-23T18:31:54.198914919+05:30","level":"INFO","msg":"stream: starting","core version":"0.22.2"}
+{"time":"2025-10-23T18:31:54.69648264+05:30","level":"INFO","msg":"stream: created new stream","id":"xz01dkvu-graphql_put"}
+{"time":"2025-10-23T18:31:54.69671299+05:30","level":"INFO","msg":"handler: started","stream_id":"xz01dkvu-graphql_put"}
+{"time":"2025-10-23T18:31:54.696966932+05:30","level":"INFO","msg":"stream: started","id":"xz01dkvu-graphql_put"}
+{"time":"2025-10-23T18:31:54.696987266+05:30","level":"INFO","msg":"writer: started","stream_id":"xz01dkvu-graphql_put"}
+{"time":"2025-10-23T18:31:54.697067283+05:30","level":"INFO","msg":"sender: started","stream_id":"xz01dkvu-graphql_put"}
+{"time":"2025-10-23T18:31:55.046273418+05:30","level":"WARN","msg":"handleCodeSave: program relative path is empty"}
+{"time":"2025-10-23T18:31:55.046450324+05:30","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-10-23T18:31:55.121770201+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":0.072752915}],"total_operations":1}}
+{"time":"2025-10-23T18:31:56.595044348+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-23T18:31:56.954624995+05:30","level":"INFO","msg":"stream: closing","id":"xz01dkvu-graphql_put"}
+{"time":"2025-10-23T18:31:56.954694179+05:30","level":"INFO","msg":"handler: closed","stream_id":"xz01dkvu-graphql_put"}
+{"time":"2025-10-23T18:31:56.954807197+05:30","level":"INFO","msg":"sender: closed","stream_id":"xz01dkvu-graphql_put"}
+{"time":"2025-10-23T18:31:56.954829197+05:30","level":"INFO","msg":"stream: closed","id":"xz01dkvu-graphql_put"}

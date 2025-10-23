@@ -1,0 +1,15 @@
+{"time":"2025-10-23T18:22:45.772019119+05:30","level":"INFO","msg":"stream: starting","core version":"0.22.2"}
+{"time":"2025-10-23T18:22:46.246357994+05:30","level":"INFO","msg":"stream: created new stream","id":"q393c5me"}
+{"time":"2025-10-23T18:22:46.246575733+05:30","level":"INFO","msg":"handler: started","stream_id":"q393c5me"}
+{"time":"2025-10-23T18:22:46.247006655+05:30","level":"INFO","msg":"stream: started","id":"q393c5me"}
+{"time":"2025-10-23T18:22:46.247319356+05:30","level":"INFO","msg":"writer: started","stream_id":"q393c5me"}
+{"time":"2025-10-23T18:22:46.247423355+05:30","level":"INFO","msg":"sender: started","stream_id":"q393c5me"}
+{"time":"2025-10-23T18:22:46.550859685+05:30","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://wandb-take-home.karankaushik.dev/graphql"}
+{"time":"2025-10-23T18:22:46.551098868+05:30","level":"ERROR","msg":"runupserter: failed to init run","error":"returned error 404: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"entity wandb-take-home-team-1 not found during upsertBucket\",\"path\":[\"upsertBucket\"]}]}"}
+{"time":"2025-10-23T18:22:46.570717403+05:30","level":"INFO","msg":"stream: closing","id":"q393c5me"}
+{"time":"2025-10-23T18:22:46.571950429+05:30","level":"ERROR","msg":"sender: uploadConfigFile: runupserter: run not yet initialized"}
+{"time":"2025-10-23T18:22:46.621917128+05:30","level":"ERROR","msg":"runfiles: runupserter: run not yet initialized"}
+{"time":"2025-10-23T18:22:46.622361495+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-23T18:22:46.622439883+05:30","level":"INFO","msg":"handler: closed","stream_id":"q393c5me"}
+{"time":"2025-10-23T18:22:46.62263527+05:30","level":"INFO","msg":"sender: closed","stream_id":"q393c5me"}
+{"time":"2025-10-23T18:22:46.62266227+05:30","level":"INFO","msg":"stream: closed","id":"q393c5me"}
